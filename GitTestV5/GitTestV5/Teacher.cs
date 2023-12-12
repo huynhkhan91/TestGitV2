@@ -8,6 +8,10 @@ namespace GitTestV5
 {
     class Teacher
     {
+
         private int a = 10;
+
+        private int aa = 15;
+
     }
 }
